@@ -3,7 +3,7 @@
     <a href="{{ .RelPermalink }}">{{ .Title }}</a> 
     <span>Rated: </span>
       {{ range .Params.ratings }}
-        <a href="{{ "/ratings/" | relLangURL }}{{ . | urlize }}">{{ . }}</a>
+        <a class="rating-title" href="{{ "/ratings/" | relLangURL }}{{ . | urlize }}">{{ . }}</a>
       {{ end }}
   </h2>
   <time>{{ .Date.Format "2. January, 2006"}}</time>
