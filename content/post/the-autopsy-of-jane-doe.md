@@ -2,12 +2,10 @@
 title: "The Autopsy of Jane Doe"
 date: 2018-06-16T10:25:59-06:00
 draft: false
-tags: ["goth"]
+tags: []
 categories: ["horror"]
-ratings: ["C+"]
+ratings: ["b"]
 ---
-
-**Rating:** B
 
 * Good for the first half to 3/4 of the movie
 <!--more-->

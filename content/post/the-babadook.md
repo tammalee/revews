@@ -2,12 +2,10 @@
 title: "The Babadook"
 date: 2018-06-16T10:26:11-06:00
 draft: false
-tags: ["goth"]
+tags: []
 categories: ["horror"]
-ratings: ["C+"]
+ratings: ["a+"]
 ---
-
-**Rating:** A+
 
 * A+ no complaints
 <!--more-->

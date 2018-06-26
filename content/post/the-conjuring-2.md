@@ -2,12 +2,10 @@
 title: "The Conjuring 2"
 date: 2018-06-16T10:27:30-06:00
 draft: false
-tags: ["goth"]
+tags: []
 categories: ["horror"]
-ratings: ["C+"]
+ratings: ["a"]
 ---
-
-**Rating:** A
 
 * The Warrens need their own tv show!
 <!--more-->
