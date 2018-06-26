@@ -2,9 +2,9 @@
 title: "The Lodgers"
 date: 2018-06-16T10:35:24-06:00
 draft: false
-tags: ["goth"]
+tags: []
 categories: ["horror"]
-ratings: ["C+"]
+ratings: ["c+"]
 ---
 * Lovely to look at
 <!--more-->

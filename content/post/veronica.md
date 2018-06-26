@@ -2,12 +2,10 @@
 title: "Veronica"
 date: 2018-06-16T10:26:56-06:00
 draft: false
-tags: ["goth"]
+tags: []
 categories: ["horror"]
-ratings: ["C+"]
+ratings: ["b+"]
 ---
-
-**Rating:** B+
 
 * Maybe because I was a latch key kid with a younger brother to care for I really felt for Veronica?
 <!--more-->

@@ -2,12 +2,10 @@
 title: "The Conjuring"
 date: 2018-06-16T10:27:26-06:00
 draft: false
-tags: ["goth"]
+tags: []
 categories: ["horror"]
-ratings: ["C+"]
+ratings: ["a+"]
 ---
-
-**Rating:** A+++
 
 * This felt genre-defining
 <!--more-->

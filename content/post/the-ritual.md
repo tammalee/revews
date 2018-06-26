@@ -2,12 +2,10 @@
 title: "The Ritual"
 date: 2018-06-16T10:34:26-06:00
 draft: false
-tags: ["goth"]
+tags: []
 categories: ["horror"]
-ratings: ["C+"]
+ratings: ["b"]
 ---
-
-**Rating:** B
 
 * Loved the Nordic mythology
 <!--more-->

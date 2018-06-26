@@ -2,12 +2,10 @@
 title: "The Wailing"
 date: 2018-06-16T10:27:13-06:00
 draft: false
-tags: ["goth"]
+tags: []
 categories: ["horror"]
-ratings: ["C+"]
+ratings: ["a"]
 ---
-
-**Rating:** A
 
 * I loved quite a bit of this!
 <!--more-->

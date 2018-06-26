@@ -2,12 +2,10 @@
 title: "The Shining"
 date: 2018-06-16T10:28:28-06:00
 draft: false
-tags: ["goth"]
+tags: []
 categories: ["horror"]
-ratings: ["C+"]
+ratings: ["b+"]
 ---
-
-**Rating:** B+
 
 * Haha omg the opening credits. XD 
 <!--more-->
