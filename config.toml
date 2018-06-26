@@ -1,5 +1,5 @@
 theme = "anybodyhome"
-baseURL = "http://reviews.tammalee.com/"
+baseURL = "https://reviews.tammalee.com/"
 languageCode = "en-us"
 title = "Horror Shows"
 
