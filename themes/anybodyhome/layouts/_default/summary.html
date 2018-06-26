@@ -1,0 +1,14 @@
+<section class="summary">
+  <h2>
+    <a href="{{ .RelPermalink }}">{{ .Title }}</a> 
+    <span>Rated: </span>
+      {{ range .Params.ratings }}
+        <a href="{{ "/ratings/" | relLangURL }}{{ . | urlize }}">{{ . }}</a>
+      {{ end }}
+  </h2>
+  <time>{{ .Date.Format "2. January, 2006"}}</time>
+  <article>
+    <p>{{ .Summary }}</p>
+  </article>
+  <h3><a href="{{ .RelPermalink }}">Read more...</a></h3>
+</section>

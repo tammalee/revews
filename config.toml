@@ -1,0 +1,12 @@
+theme = "anybodyhome"
+baseURL = "http://reviews.tammalee.com/"
+languageCode = "en-us"
+title = "Horror Shows"
+
+[params]
+  subtitle = "Tammy's bare-boned crap reviews"
+
+[taxonomies]
+  tag = "tags"
+  category = "categories"
+  rating = "ratings"

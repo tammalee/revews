@@ -1,0 +1,6 @@
+{{ partial "head"}}
+{{ partial "header" . }}
+	{{ range .Data.Pages }}
+        {{ .Render "summary"}}
+    {{ end }}
+{{ partial "footer" . }}
