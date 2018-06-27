@@ -40,6 +40,10 @@
       type="text/css"
       href="/css/styles.css"
     />
+    <script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/3.2.0/fuse.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/mark.js/8.11.1/jquery.mark.min.js"></script>
+<script src="https://reviews.tammalee.com/js/search.js"></script>
 </head>
 
 <section id="header">
@@ -49,13 +53,14 @@
   <h2>Tammy&#39;s bare-boned crap reviews</h2>
 </section>
 
+<main>
 	
         <section class="summary">
   <h2>
     <a href="/post/the-lodgers/">The Lodgers</a> 
     <span>Rated: </span>
       
-        <a class="rating-title" href="/ratings/c&#43;">c&#43;</a>
+        <a class="rating-title c&#43;" href="/ratings/c&#43;">c&#43;</a>
       
   </h2>
   <time>16. June, 2018</time>
@@ -72,7 +77,7 @@
     <a href="/post/the-ritual/">The Ritual</a> 
     <span>Rated: </span>
       
-        <a class="rating-title" href="/ratings/b">b</a>
+        <a class="rating-title b" href="/ratings/b">b</a>
       
   </h2>
   <time>16. June, 2018</time>
@@ -89,7 +94,7 @@
     <a href="/post/annabelle-creation/">Annabelle Creation</a> 
     <span>Rated: </span>
       
-        <a class="rating-title" href="/ratings/a&#43;">a&#43;</a>
+        <a class="rating-title a&#43;" href="/ratings/a&#43;">a&#43;</a>
       
   </h2>
   <time>16. June, 2018</time>
@@ -106,7 +111,7 @@
     <a href="/post/the-shining/">The Shining</a> 
     <span>Rated: </span>
       
-        <a class="rating-title" href="/ratings/b&#43;">b&#43;</a>
+        <a class="rating-title b&#43;" href="/ratings/b&#43;">b&#43;</a>
       
   </h2>
   <time>16. June, 2018</time>
@@ -123,7 +128,7 @@
     <a href="/post/it-follows/">It Follows</a> 
     <span>Rated: </span>
       
-        <a class="rating-title" href="/ratings/b&#43;">b&#43;</a>
+        <a class="rating-title b&#43;" href="/ratings/b&#43;">b&#43;</a>
       
   </h2>
   <time>16. June, 2018</time>
@@ -140,7 +145,7 @@
     <a href="/post/sinister/">Sinister</a> 
     <span>Rated: </span>
       
-        <a class="rating-title" href="/ratings/a&#43;">a&#43;</a>
+        <a class="rating-title a&#43;" href="/ratings/a&#43;">a&#43;</a>
       
   </h2>
   <time>16. June, 2018</time>
@@ -157,7 +162,7 @@
     <a href="/post/it-2017/">It 2017</a> 
     <span>Rated: </span>
       
-        <a class="rating-title" href="/ratings/d">d</a>
+        <a class="rating-title d" href="/ratings/d">d</a>
       
   </h2>
   <time>16. June, 2018</time>
@@ -174,7 +179,7 @@
     <a href="/post/annabelle/">Annabelle</a> 
     <span>Rated: </span>
       
-        <a class="rating-title" href="/ratings/c&#43;">c&#43;</a>
+        <a class="rating-title c&#43;" href="/ratings/c&#43;">c&#43;</a>
       
   </h2>
   <time>16. June, 2018</time>
@@ -191,7 +196,7 @@
     <a href="/post/the-conjuring-2/">The Conjuring 2</a> 
     <span>Rated: </span>
       
-        <a class="rating-title" href="/ratings/a">a</a>
+        <a class="rating-title a" href="/ratings/a">a</a>
       
   </h2>
   <time>16. June, 2018</time>
@@ -208,7 +213,7 @@
     <a href="/post/the-conjuring/">The Conjuring</a> 
     <span>Rated: </span>
       
-        <a class="rating-title" href="/ratings/a&#43;">a&#43;</a>
+        <a class="rating-title a&#43;" href="/ratings/a&#43;">a&#43;</a>
       
   </h2>
   <time>16. June, 2018</time>
@@ -225,7 +230,7 @@
     <a href="/post/the-wailing/">The Wailing</a> 
     <span>Rated: </span>
       
-        <a class="rating-title" href="/ratings/a">a</a>
+        <a class="rating-title a" href="/ratings/a">a</a>
       
   </h2>
   <time>16. June, 2018</time>
@@ -242,7 +247,7 @@
     <a href="/post/requiem/">Requiem</a> 
     <span>Rated: </span>
       
-        <a class="rating-title" href="/ratings/c&#43;">c&#43;</a>
+        <a class="rating-title c&#43;" href="/ratings/c&#43;">c&#43;</a>
       
   </h2>
   <time>16. June, 2018</time>
@@ -259,7 +264,7 @@
     <a href="/post/veronica/">Veronica</a> 
     <span>Rated: </span>
       
-        <a class="rating-title" href="/ratings/b&#43;">b&#43;</a>
+        <a class="rating-title b&#43;" href="/ratings/b&#43;">b&#43;</a>
       
   </h2>
   <time>16. June, 2018</time>
@@ -276,9 +281,9 @@
     <a href="/post/annihilation/">Annihilation</a> 
     <span>Rated: </span>
       
-        <a class="rating-title" href="/ratings/b">b</a>
+        <a class="rating-title b" href="/ratings/b">b</a>
       
-        <a class="rating-title" href="/ratings/a">a</a>
+        <a class="rating-title a" href="/ratings/a">a</a>
       
   </h2>
   <time>16. June, 2018</time>
@@ -295,7 +300,7 @@
     <a href="/post/i-am-the-pretty-thing/">I Am the Pretty Thing That Lives in the House</a> 
     <span>Rated: </span>
       
-        <a class="rating-title" href="/ratings/c">c</a>
+        <a class="rating-title c" href="/ratings/c">c</a>
       
   </h2>
   <time>16. June, 2018</time>
@@ -312,7 +317,7 @@
     <a href="/post/the-babadook/">The Babadook</a> 
     <span>Rated: </span>
       
-        <a class="rating-title" href="/ratings/a&#43;">a&#43;</a>
+        <a class="rating-title a&#43;" href="/ratings/a&#43;">a&#43;</a>
       
   </h2>
   <time>16. June, 2018</time>
@@ -329,7 +334,7 @@
     <a href="/post/the-autopsy-of-jane-doe/">The Autopsy of Jane Doe</a> 
     <span>Rated: </span>
       
-        <a class="rating-title" href="/ratings/b">b</a>
+        <a class="rating-title b" href="/ratings/b">b</a>
       
   </h2>
   <time>16. June, 2018</time>
@@ -346,7 +351,7 @@
     <a href="/post/ghost-wars/">Ghost Wars</a> 
     <span>Rated: </span>
       
-        <a class="rating-title" href="/ratings/c-">c-</a>
+        <a class="rating-title c-" href="/ratings/c-">c-</a>
       
   </h2>
   <time>16. June, 2018</time>
@@ -358,3 +363,9 @@
 </section>
 
     
+</main>
+<section id="footer">
+    <div id="footer__content">
+            <p>Big thanks to <a href="https://www.instagram.com/swatch_bharat/" target="_blank">Swatch Bharat</a> for the colour inspiration!</p>
+    </div>
+</section>

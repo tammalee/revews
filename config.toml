@@ -10,3 +10,8 @@ title = "Horror Shows"
   tag = "tags"
   category = "categories"
   rating = "ratings"
+
+  [outputs]
+    home = ["HTML", "JSON"]
+    page = ["HTML"]
+    post = ["HTML"]

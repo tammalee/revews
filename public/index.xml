@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Horror Shows</title>
+    <title>Home on Horror Shows</title>
     <link>https://reviews.tammalee.com/</link>
-    <description>Recent content on Horror Shows</description>
+    <description>Recent content in Home on Horror Shows</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 16 Jun 2018 10:35:24 -0600</lastBuildDate>
+    <lastBuildDate>Sat, 10 Feb 2018 18:56:13 -0500</lastBuildDate>
     
 	<atom:link href="https://reviews.tammalee.com/index.xml" rel="self" type="application/rss+xml" />
     
@@ -189,6 +189,19 @@
       <guid>https://reviews.tammalee.com/post/ghost-wars/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;Terrible acting!</description>
+    </item>
+    
+    <item>
+      <title>Search Results</title>
+      <link>https://reviews.tammalee.com/search/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://reviews.tammalee.com/search/</guid>
+      <description>This file exists solely to respond to /search URL with the related search layout template.
+No content shown here is rendered, all content is based in the template layouts/page/search.html
+Setting a very low sitemap priority will tell search engines this is not important content.
+This implementation uses Fusejs, jquery and mark.js
+Initial setup Search depends on additional output content type of JSON in config.toml ` [outputs] home = [&amp;quot;HTML&amp;quot;, &amp;quot;JSON&amp;quot;] \`</description>
     </item>
     
   </channel>

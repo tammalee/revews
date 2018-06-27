@@ -93,6 +93,12 @@
   </url>
   
   <url>
+    <loc>https://reviews.tammalee.com/</loc>
+    <lastmod>2018-02-10T18:56:13-05:00</lastmod>
+    <priority>1</priority>
+  </url>
+  
+  <url>
     <loc>https://reviews.tammalee.com/ratings/a/</loc>
     <lastmod>2018-06-16T10:27:30-06:00</lastmod>
     <priority>0</priority>
@@ -158,12 +164,6 @@
   </url>
   
   <url>
-    <loc>https://reviews.tammalee.com/</loc>
-    <lastmod>2018-06-16T10:35:24-06:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://reviews.tammalee.com/post/</loc>
     <lastmod>2018-06-16T10:35:24-06:00</lastmod>
     <priority>0</priority>
@@ -179,6 +179,11 @@
     <loc>https://reviews.tammalee.com/categories/sci-fi/</loc>
     <lastmod>2018-06-16T10:26:48-06:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://reviews.tammalee.com/search/</loc>
+    <priority>0.1</priority>
   </url>
   
   <url>

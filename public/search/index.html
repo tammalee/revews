@@ -7,7 +7,7 @@
 
     <link
       rel="canonical"
-      href="https://reviews.tammalee.com/post/the-conjuring-2/"
+      href="https://reviews.tammalee.com/search/"
     />
 
     <link
@@ -54,34 +54,30 @@
 </section>
 
 
-<div id="post">
-<section>
-  <h2>The Conjuring 2</h2>
-  <time>16. June, 2018</time>
-   
-    <ul id="ratings">
-    	<li>Rating: </li>
-      
-        <li> <a href="/ratings/a">a</a> </li>
-      
-    </ul>
-    
-    
+<main>
+<section class="resume-section p-3 p-lg-5 d-flex flex-column">
+  <div class="my-auto" >
+    <form action="https://reviews.tammalee.com/search">
+      <input id="search-query" name="s"/>
+    </form>
+    <div id="search-results">
+     <h3>Matching pages</h3>
+    </div>
+  </div>
 </section>
-<section>
-  <article>
-    <ul>
-<li>The Warrens need their own tv show!
-</li>
-<li>I thought this one was scarier than the first in some ways</li>
-<li>Just love this and the first Conjuring to pieces! So good!</li>
-</ul>
-  </article>
-</section>
-<section>
-  
-</section>
-</div>
+
+<script id="search-result-template" type="text/x-js-template">
+    <div id="summary-${key}">
+      <h4><a href="${link}">${title}</a></h4>
+      <p>${snippet}</p>
+      ${ isset tags }<p>Tags: ${tags}</p>${ end }
+      ${ isset categories }<p>Categories: ${categories}</p>${ end }
+    </div>
+</script>
+<script>
+  document.getElementById('search-query').focus();
+</script>
+</main>
 <section id="footer">
     <div id="footer__content">
             <p>Big thanks to <a href="https://www.instagram.com/swatch_bharat/" target="_blank">Swatch Bharat</a> for the colour inspiration!</p>
