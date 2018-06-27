@@ -1,14 +1,16 @@
-<section class="summary">
-  <h2>
-    <a href="{{ .RelPermalink }}">{{ .Title }}</a> 
-    <span>Rated: </span>
+<section class='summary {{ range .Params.ratings }}{{ trim . "+-" }} {{ end }}'>
+  <div class="container">
+    <h2>
+      <a href="{{ .RelPermalink }}">{{ .Title }}</a> 
       {{ range .Params.ratings }}
-        <a class="rating-title {{ . }}" href="{{ "/ratings/" | relLangURL }}{{ . | urlize }}">{{ . }}</a>
-      {{ end }}
-  </h2>
-  <time>{{ .Date.Format "2. January, 2006"}}</time>
-  <article>
-    <p>{{ .Summary }}</p>
-  </article>
-  <h3><a href="{{ .RelPermalink }}">Read more...</a></h3>
+          <a class='ratings__value {{ trim . "+-" }}'  href="{{ "/ratings/" | relLangURL }}{{ . | urlize }}">{{ . }}</a>
+        {{ end }}
+    </h2>
+    <time>{{ .Date.Format "2. January, 2006"}}</time>
+        
+    <article>
+      <p>{{ .Summary }}</p>
+    </article>
+    <h3><a href="{{ .RelPermalink }}">Read more...</a></h3>
+</div>
 </section>

@@ -1,6 +1,7 @@
 @import 'https://fonts.googleapis.com/css?family=Lobster|Quicksand|Cutive+Mono';
 
 /**
+dark blue: #1a3963
 medium blue #4d92ee
 light blue #5cadef
 goldenrod #efba50
@@ -8,7 +9,12 @@ ochre #e79c48
 rust #bf4733
 Inspiration: https://d.pr/i/rcyUA2
 https://www.instagram.com/swatch_bharat/
-dark blue: #1a3963
+
+darkest grey: #242829
+lightest grey: #f1efe1
+green: #6ec3a6
+pink: #ec796f
+lightest blue: #ec796f
 
 **/
 
@@ -23,7 +29,8 @@ body {
   background-color: #5cadef;
 }
 
-main {
+.container,
+#review {
   width: 66%;
   margin: 0 auto;
   padding: 30px 0;
@@ -130,14 +137,10 @@ section.summary {
 section.summary article {
   margin: 15px 0 0 0;
 }
-
-section.summary h2 .rating-title {
-  text-transform: uppercase;
-}
-
 section h2 {
   font-size: 1.3em;
   font-family: 'Lobster', cursive;
+  line-height: 1.25;
 }
 
 @media(max-device-width: 667px) {
@@ -243,7 +246,33 @@ section#footer #footer__content {
   margin: 0 auto;
 }
 
+
+/* 
+darkest grey: #242829
+lightest grey: #f1efe1
+green: #6ec3a6
+pink: #ec796f
+lightest blue: #87c7dc */
 .ratings__value {
   text-transform: uppercase;
+  border: solid 1px #242829;
+  border-radius: 10px;
+  padding: 3px 6px;
+  font-size: .85em;
+}
 
+section.a {
+  background-color: #87c7dc;
+}
+section.b{
+  background-color: #ec796f;
+}
+section.c {
+  background-color: #6ec3a6;
+}
+section.d {
+  background-color: #f1efe1;
+}
+section.f {
+  background-color: #242829;
 }

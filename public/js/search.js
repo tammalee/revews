@@ -12,7 +12,8 @@ var fuseOptions = {
     "title",
     "contents",
     "tags",
-    "categories"
+    "categories",
+    "ratings"
   ]
 };
 
