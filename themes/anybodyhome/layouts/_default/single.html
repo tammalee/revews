@@ -1,17 +1,14 @@
 {{ partial "head.html" . }}
 {{ partial "header.html" . }}
 {{ $baseurl := .Site.BaseURL }}
-<div id="post">
+<main id="review">
 <section>
   <h2>{{ .Title }}</h2>
   <time>{{ .Date.Format "2. January, 2006"}}</time>
    {{ with .Params.ratings }}
-    <ul id="ratings">
-    	<li>Rating: </li>
       {{ range . }}
-        <li> <a href="{{ "/ratings/" | relLangURL }}{{ . | urlize }}">{{ . }}</a> </li>
+      <p>Rating: <a class="ratings__value" href="{{ "/ratings/" | relLangURL }}{{ . | urlize }}">{{ . }}</a></p>
       {{ end }}
-    </ul>
     {{ end }}
     
 </section>
@@ -30,5 +27,5 @@
     </ul>
     {{ end }}
 </section>
-</div>
+</main>
 {{ partial "footer.html" . }}

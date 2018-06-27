@@ -20,6 +20,7 @@ body {
   font-family: 'Quicksand', sans-serif;
   min-height: 100vh;
   color: #000;
+  background-color: #5cadef;
 }
 
 main {
@@ -27,6 +28,7 @@ main {
   margin: 0 auto;
   padding: 30px 0;
 }
+
 
 @media(max-device-width: 667px) {
   body {
@@ -239,4 +241,9 @@ section#footer {
 section#footer #footer__content {
   width: 66%;
   margin: 0 auto;
+}
+
+.ratings__value {
+  text-transform: uppercase;
+
 }
