@@ -11,5 +11,5 @@ ratings: ["a+"]
 <!--more-->
 * Another great movie in the Conjuring universe!
 * Auuuuugh!
-* I felt genuinely sad for Janice
+* I felt genuinely sad for Janice. She had a hard time
 * Ohhhhhhhh... that's how they tie this movie to Annebelle? Cool!
