@@ -20,3 +20,4 @@ ratings: [b-]
 * Socially awkward nerds fighting over… teenage girls? Young women? I can’t tell. It made me feel a bit gross, tbh.
 * Okay, so overall, I love that the protagonist is an older woman! I felt the non-dialogue stuff was really well done but the dialogue felt stiff to me. 
 * This is the real deal
+* Woo. Woo.
