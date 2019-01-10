@@ -7,7 +7,7 @@
   <time>{{ .Date.Format "2. January, 2006"}}</time>
    {{ with .Params.ratings }}
       {{ range . }}
-      <p>Rating: <a class="ratings__value" href="{{ "/ratings/" | relLangURL }}{{ . | urlize }}">{{ . }}</a></p>
+      <p>Rating: <a class="ratings__value {{ trim . "+-" }}" href="{{ "/ratings/" | relLangURL }}{{ . | urlize }}">{{ . }}</a></p>
       {{ end }}
     {{ end }}
     

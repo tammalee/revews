@@ -1,6 +1,6 @@
 ---
 title: "Evil Dead - Remake"
-date: 2018-24-16T10:26:48-06:00
+date: 2018-07-16T10:26:48-06:00
 draft: false
 tags: ["goth"]
 categories: ["horror"]
