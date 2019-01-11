@@ -19,3 +19,4 @@ ratings: [b-]
 * Called it about the whistle. =\
 * Socially awkward nerds fighting over… teenage girls? Young women? I can’t tell. It made me feel a bit gross, tbh.
 * Okay, so overall, I love that the protagonist is an older woman! I felt the non-dialogue stuff was really well done but the dialogue felt stiff to me.
+* I would watch this movie when I wanted to eat a bowl of popcorn on a Friday evening.

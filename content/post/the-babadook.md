@@ -12,4 +12,4 @@ ratings: ["a+"]
 * Loved how there was no definitive explanation for the monster
 * Loved the metaphor
 * Pretty darn good acting
-* Would watch while hugging a stuffed animal in a death grip
+* I would watch this while hugging a stuffed animal in a death grip

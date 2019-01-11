@@ -17,3 +17,4 @@ ratings: ["b+"]
 * The shining is so interesting!
 * Jack cannot act like a normal, innocent person can he? 
 * I’m seeing so many scenes that NBC Hannibal referenced! XD 
+* I would watch this movie for the historical value and to feel a bit edjumacated.

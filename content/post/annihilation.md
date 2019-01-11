@@ -14,5 +14,5 @@ ratings: ["b", "a"]
 * Loved everything about this movie, really
 * I want so badly to categorize this as horror because we haven’t had a good horror with a cast of ladies since The Descent!
 * But it’s clearly sci-fi
+* One fellah got up partway through and stumbled his way out of the theatre. He was not the only one.
 * I would watch this in the theatre if you can! I did and sat spellbound for the entirety of it. The big screen and sound system really added to the experience
-

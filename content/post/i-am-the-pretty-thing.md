@@ -12,3 +12,5 @@ ratings: ["c"]
 * Yawn
 * I might give this another go when I’m feeling mellow and in the mood for something slowish
 * To be fair, I was a bit manic about needing to do something else and didn’t give it a fair shake
+* Also to be fair, yawwwwwwwn.
+* I would watch this movie when I had the flu and couldn't move off of the sofa. Being trapped is the only way I would try watching it again.

@@ -13,3 +13,4 @@ ratings: ["a+"]
 * Auuuuugh!
 * I felt genuinely sad for Janice. She had a hard time
 * Ohhhhhhhh... that's how they tie this movie to Annebelle? Cool!
+* I would watch this movie when I want a genuine scare and am feeling the girl power thang.

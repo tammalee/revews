@@ -12,3 +12,4 @@ ratings: ["b"]
 * the mystery is what made the show interesting
 * once they started explaining too much, it got boring/predictable
 * __SIGHING OVER THE BODY BEING THAT OF A CONVENTIONALLY ATTRACTIVE YOUNG WOMAN__
+* I would watch this movie if I were interested in a moderately scary time but I was expecting pizza to show up halfway through and steal my attention away.

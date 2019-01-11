@@ -15,3 +15,4 @@ ratings: ["d"]
 * I hate the girl going through withdrawal so much.
 * __sighs__ Honestly, this is holding no surprises for me. Stopped watching about forty minutes in.
 * WHY remake this movie? WHYYYYYY?
+* I would watch this movie if I wanted proof that creativity is dead.

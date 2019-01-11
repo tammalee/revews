@@ -15,3 +15,4 @@ ratings: ["c-"]
 * Why am I still watching this?
 * Okay. It’s over. I wasted an entire week on this crap.
 * Look, I was in a low point of my life, I have meds now, I make better decisions
+* I would watch this series if you like mysteries and don't mind crap being the answer.

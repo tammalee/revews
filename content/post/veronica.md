@@ -11,3 +11,4 @@ ratings: ["b+"]
 <!--more-->
 * Great show! Not super scary but tense. Her younger siblings being in danger added nice tension
 * It had a lot of classic elements of horror but maybe being Spanish added enough charm that the classic elements weren’t too cliché?
+* I would watch this when you're babysitting your younger siblings just to make them understand how much they should be grateful to you for being there for them!
