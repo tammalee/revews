@@ -51,17 +51,35 @@ h1, h2, h3, h4, h5, h6 {
 
 a {
   text-decoration: none;
-  color: #336699;
+  color: #333;
 }
-
 a:visited {
   color: #333;
 }
-
 a:hover {
-  color: #C0C0C0;
+  color: #e79c48;
 }
 
+#rating-menu {
+  padding: 0;
+  margin: 0;
+  list-style: none;
+  text-align: center;
+}
+#rating-menu li {
+  padding: 5px;
+  margin: 0;
+  display: inline-block;
+  
+}
+#rating-menu a.search {
+  border-color: #ccc;
+}
+#rating-menu a:hover.search {
+  background-color: #e79c48;
+  border-color: #222;
+  color: #222;
+}
 p {
   line-height: 1.4;
   text-align: justify;
@@ -93,6 +111,7 @@ img {
 
 section#header {
   padding: 40px 0;
+  margin-bottom: 30px;
   background: #222;
   width: 100%;
 }
@@ -104,13 +123,12 @@ section#header h1 {
 }
 section#header h1 > a {
   display: block;
-  padding: 16px 0;
+  padding: 0;
   text-align: center;
   color: #ccc;
 }
 section#header h1 > a:hover {
-  color: #fff;
-  background-color: #e79c48;
+  color: #e79c48;
 }
 @media(max-device-width: 667px) {
   section#header h1 {
@@ -136,8 +154,7 @@ section#header h2 {
 
 section.summary {
   padding: 0 0 0 10px;
-  border-left: 1px solid black;
-  margin: 0 0 60px 0;
+  margin: 0 0 30px 0;
 }
 
 @media(max-device-width: 667px) {
@@ -178,9 +195,10 @@ section article {
 
 section#paginator {
   margin: 0 0 140px 0;
-  font-family: 'Lobster', cursive;
+  font-family: 'Della Respira', serif;
   width: 66%;
-    margin: 0 auto;
+  margin: 0 auto;
+  height: 30px;
 }
 
 @media(max-device-width: 667px) {
@@ -273,17 +291,17 @@ section#footer #footer__content {
 
 .ratings__value {
   text-transform: uppercase;
-  border: solid 1px #242829;
+  border: solid 1px #222;
   border-radius: 10px;
-  padding: 3px 6px;
+  padding: 3px 9px;
   font-size: .85em;
 }
 
 a.ratings__value {
-  color: #ccc;
+  color: #fff;
 }
-a:visted.ratings__value {
-  color: #ccc;
+a:hover.ratings__value {
+  color: #222;
 }
 
 section.a {
@@ -300,4 +318,8 @@ section.d {
 }
 section.f {
   background-color: #f5f5f5;
+}
+
+#search-results h2 {
+  margin-bottom: 30px;
 }
